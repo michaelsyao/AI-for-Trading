@@ -9,3 +9,4 @@
 ## Term 2: Applied AI Trading [On going]
 1. Sentiment Analysis with Natural Language Processing
 2. Advanced Natural Language Processing with Deep Learning
+3. Sentiment Analysis with Neural Network
