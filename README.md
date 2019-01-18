@@ -7,5 +7,5 @@
 4. [Multi-Factor Model](Final_project_4_starter_v3.ipynb)
 
 ## Term 2: Applied AI Trading
-1. [Sentiment Analysis with Natural Language Processing-]
+1. Sentiment Analysis with Natural Language Processing
 2. [Advanced Natural Language Processing with Deep Learning](project_1_starter.ipynb)
