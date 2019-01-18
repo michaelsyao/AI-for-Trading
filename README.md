@@ -8,4 +8,4 @@
 
 ## Term 2: Applied AI Trading
 1. Sentiment Analysis with Natural Language Processing
-2. [Advanced Natural Language Processing with Deep Learning](project_1_starter.ipynb)
+2. Advanced Natural Language Processing with Deep Learning
