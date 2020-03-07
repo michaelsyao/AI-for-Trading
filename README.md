@@ -9,5 +9,5 @@
 
 ## Term 2: Applied AI Trading [On going]
 1. [NLP on Financial Statements](S2_project_5_starter.ipynb)
-2. Advanced Natural Language Processing with Deep Learning
+2. [Analyzing Stock Sentiment from Twits](S2_project_5_starter.ipynb)
 3. Sentiment Analysis with Neural Network
