@@ -11,3 +11,4 @@
 1. [NLP on Financial Statements](S2_project_5_starter.ipynb)
 2. [Analyzing Stock Sentiment from Twits](FINAL_project_6_SentimentAnalysis.ipynb)
 3. Sentiment Analysis with Neural Network
+   * [Feature Importance Exercise](L21.04_sklearn_feature_importance.ipynb)
