@@ -12,3 +12,4 @@
 2. [Analyzing Stock Sentiment from Twits](FINAL_project_6_SentimentAnalysis.ipynb)
 3. Sentiment Analysis with Neural Network
    * [Feature Importance Exercise](L21.04_sklearn_feature_importance.ipynb)
+   * [Random Forest Exercise](FINAL_spam_rf.ipynb)
