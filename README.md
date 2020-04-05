@@ -1,7 +1,8 @@
 # AI for Trading: 
 
-## Real-world projects designed by industry experts,covering topics from asset management to trading signal generation.
+## Projects: covering topics from asset management to trading signal generation.
 1. [Trading with Momentum](project_1_starter.ipynb)
+    > Test
    * Extended Reference: [Dual Momentum Strategy](https://seekingalpha.com/article/4233923-dual-momentum-january-update)
 2. [Breakout Strategy](clean_project_2_starter.ipynb)
 3. [Smart Beta and Portfolio Optimization](Final_project_3_starter.ipynb)
