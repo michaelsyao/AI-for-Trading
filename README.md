@@ -4,7 +4,10 @@
 1. [Trading with Momentum](project_1_starter.ipynb)
     > Generate a trading signal based on a momentum indicator and produce projected returns. Perform a statistical test to conclude if there is alpha in the signal.
    * Extended Reference: [Dual Momentum Strategy](https://seekingalpha.com/article/4233923-dual-momentum-january-update)
+   
 2. [Breakout Strategy](clean_project_2_starter.ipynb)
+    >Code and evaluate a breakout signal. You will run statistical tests to test for normality and to find alpha. You will also learn about the effect that filtered outliers could have on your trading signal and identify if the outliers could be a valid trading signal. You will make a judgement call about what should be kept versus what should not.
+    
 3. [Smart Beta and Portfolio Optimization](Final_project_3_starter.ipynb)
 4. [Multi-Factor Model](Final_project_4_starter_v3.ipynb)
 5. [NLP on Financial Statements](S2_project_5_starter.ipynb)
