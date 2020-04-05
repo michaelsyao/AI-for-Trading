@@ -1,4 +1,4 @@
-# AI-for-Trading: Real-world projects designed by industry experts,covering topics from asset management to trading signal generation.
+# Real-world projects designed by industry experts,covering topics from asset management to trading signal generation.
 
 ## Term 1: Algo Trading
 1. [Trading with Momentum](project_1_starter.ipynb)
