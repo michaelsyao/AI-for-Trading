@@ -2,7 +2,8 @@
 
 ## Projects: covering topics from asset management to trading signal generation.
 1. [Trading with Momentum](project_1_starter.ipynb)
-    > Test
+    > Implement momentum trading strategy with historical data of a given stock universe and generate a trading signal based on a momentum indicator. You will then compute the signal and produce projected returns. Finally, you will
+perform a statistical test to conclude if there is alpha in the signal.
    * Extended Reference: [Dual Momentum Strategy](https://seekingalpha.com/article/4233923-dual-momentum-january-update)
 2. [Breakout Strategy](clean_project_2_starter.ipynb)
 3. [Smart Beta and Portfolio Optimization](Final_project_3_starter.ipynb)
