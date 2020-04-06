@@ -9,6 +9,11 @@
     >Evaluate a breakout signal with statistical tests. Identify effect of outliers on a trading signal.
     
 3. [Smart Beta and Portfolio Optimization](Final_project_3_starter.ipynb)
+>create two portfolios utilizing smart beta methodology and optimization. You will
+evaluate the performance of the portfolios by calculating tracking errors. You will also calculate the turnover
+of your portfolio and find the best timing to rebalance. You will come up with the portfolio weights by
+analyzing fundamental data, and by quadratic programming.
+
 4. [Multi-Factor Model](Final_project_4_starter_v3.ipynb)
 5. [NLP on Financial Statements](S2_project_5_starter.ipynb)
 6. [Analyzing Stock Sentiment from Twits](FINAL_project_6_SentimentAnalysis.ipynb)
