@@ -1,11 +1,12 @@
 # AI for Trading: 
 
-## Projects: Asset management and trading signal generation.
-1. [Trading with Momentum](project_1_starter.ipynb)
-```sh
-Generate a trading signal based on a momentum indicator and produce projected returns. 
-Perform a statistical test to conclude if there is alpha in the signal.
+## Projects: 
 ```
+Asset management and trading signal generation.
+```
+1. [Trading with Momentum](project_1_starter.ipynb)
+>Generate a trading signal based on a momentum indicator and produce projected returns. 
+Perform a statistical test to conclude if there is alpha in the signal.
 - Extended Reference: [Dual Momentum Strategy](https://seekingalpha.com/article/4233923-dual-momentum-january-update)
    
 2. [Breakout Strategy](clean_project_2_starter.ipynb)
