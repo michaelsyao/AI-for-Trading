@@ -15,13 +15,17 @@ analyzing fundamental data, and by quadratic programming.
 4. [Multi-Factor Model](Final_project_4_starter_v3.ipynb)
     >Generate multiple alpha factors. Evaluate the performance of alpha factors and formulate an advanced portfolio optimization by working with constraints such as risk models, leverage, market neutrality and limits on factor exposures
 
-5. [NLP on Financial Statements](S2_project_5_starter.ipynb)
+5. [Sentiment Analysis with NLP on Financial Statements](S2_project_5_starter.ipynb)
     >Apply Natural Language Processing on corporate filings, such as 10Q and 10K statements, from cleaning data and text processing, to feature extraction and modeling. Utilize bag-of-words and TF-IDF to generate company-specific sentiments. Based on the sentiments, decide which company to invest in, and the optimal time to buy or sell.
 
-6. [Analyzing Stock Sentiment from Twits](FINAL_project_6_SentimentAnalysis.ipynb)
+6. [Sentiment Analysis with Neutral Network](FINAL_project_6_SentimentAnalysis.ipynb)
+    >Build deep neural networks to process news data. Use different ways of embedding words into vectors. Construct and train LSTM networks for sentiment classification. Backtests and apply the models to news data for signal generation.
+
 7. [Combining Signals for Enhanced Alpha](FINAL_project_7_Combining_Signals_for_Enhanced_Alpha.ipynb)
+    >
    * [Feature Importance Exercise](L21.04_sklearn_feature_importance.ipynb)
    * [Random Forest Exercise](L18.07_spam_rf.ipynb)
+   
 8. [BackTesting](FINAL_project_7_Combining_Signals_for_Enhanced_Alpha.ipynb)
    * [Performance Attribution Exercise](Exercise_performance_attribution.ipynb)
 
