@@ -1,18 +1,13 @@
 # AI for Trading: 
-
-## Projects: 
 ```
-Asset management and trading signal generation.
+Projects: Asset management and trading signal generation.
 ```
 1. [Trading with Momentum](project_1_starter.ipynb)
->Generate a trading signal based on a momentum indicator and produce projected returns. 
-Perform a statistical test to conclude if there is alpha in the signal.
-- Extended Reference: [Dual Momentum Strategy](https://seekingalpha.com/article/4233923-dual-momentum-january-update)
+   >Generate a trading signal based on a momentum indicator and produce projected returns. Perform a statistical test to conclude if there is alpha in the signal.
+   - Extended Reference: [Dual Momentum Strategy](https://seekingalpha.com/article/4233923-dual-momentum-january-update)
    
 2. [Breakout Strategy](clean_project_2_starter.ipynb)
-```
-Evaluate a breakout signal with statistical tests. Identify effect of outliers on a trading signal.
-```
+   >Evaluate a breakout signal with statistical tests. Identify effect of outliers on a trading signal.
     
 3. [Smart Beta and Portfolio Optimization](Final_project_3_starter.ipynb)
     >Create portfolios utilizing smart beta methodology and optimization. Evaluate the performance of the portfolios by calculating tracking errors. Calculate the turnover of portfolio and find the best timing to rebalance. Come up with the portfolio weights by
