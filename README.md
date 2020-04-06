@@ -22,10 +22,11 @@ analyzing fundamental data, and by quadratic programming.
     >Build deep neural networks to process news data. Use different ways of embedding words into vectors. Construct and train LSTM networks for sentiment classification. Backtests and apply the models to news data for signal generation.
 
 7. [Combining Signals for Enhanced Alpha](FINAL_project_7_Combining_Signals_for_Enhanced_Alpha.ipynb)
-    >
+    >Combine signals on a random forest for enhanced alpha. Solve the problem of overlapping samples.
    * [Feature Importance Exercise](L21.04_sklearn_feature_importance.ipynb)
    * [Random Forest Exercise](L18.07_spam_rf.ipynb)
    
 8. [BackTesting](FINAL_project_7_Combining_Signals_for_Enhanced_Alpha.ipynb)
+    >Build a realistic backtester that uses the Barra data. The backtester will perform portfolio optimization that includes transaction costs to allow for a reasonably fast backtest. Use performance attribution to identify the major drivers of your portfolio's profit-and-loss (PnL). 
    * [Performance Attribution Exercise](Exercise_performance_attribution.ipynb)
 
