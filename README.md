@@ -34,3 +34,5 @@ analyzing fundamental data, and by quadratic programming.
     >Build a realistic backtester that uses the Barra data. The backtester will perform portfolio optimization that includes transaction costs to allow for a reasonably fast backtest. Use performance attribution to identify the major drivers of your portfolio's profit-and-loss (PnL). 
    * [Performance Attribution Exercise](Exercise_performance_attribution.ipynb)
 
+## Bayesian Inference
+1. [Bayesian_Inference](MY_Bayesian_Inference.ipynb)
