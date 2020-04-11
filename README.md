@@ -35,4 +35,4 @@ analyzing fundamental data, and by quadratic programming.
    * [Performance Attribution Exercise](Exercise_performance_attribution.ipynb)
 
 ## Bayesian Inference
-1. [Bayesian_Inference](MY_Bayesian_Inference.ipynb)
+1. [Bayesian_Inference](01.Ex1_Bayesian_Inference.ipynb)
