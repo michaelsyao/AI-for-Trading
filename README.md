@@ -9,14 +9,14 @@ Projects: Asset management and trading signal generation.
 2. [Project 2: Breakout Strategy](clean_project_2_starter.ipynb)
    >Evaluate a breakout signal with statistical tests. Identify effect of outliers on a trading signal.
     
-3. [Smart Beta and Portfolio Optimization](Final_project_3_starter.ipynb)
+3. [Project 3: Smart Beta and Portfolio Optimization](Final_project_3_starter.ipynb)
     >Create portfolios utilizing smart beta methodology and optimization. Evaluate the performance of the portfolios by calculating tracking errors. Calculate the turnover of portfolio and find the best timing to rebalance. Come up with the portfolio weights by
 analyzing fundamental data, and by quadratic programming.
 
-4. [Multi-Factor Model](Final_project_4_starter_v3.ipynb)
+4. [Project 4: Multi-Factor Model](Final_project_4_starter_v3.ipynb)
     >Generate multiple alpha factors. Evaluate the performance of alpha factors and formulate an advanced portfolio optimization by working with constraints such as risk models, leverage, market neutrality and limits on factor exposures
 
-5. [Sentiment Analysis with NLP on Financial Statements](S2_project_5_starter.ipynb)
+5. [Project 5: Sentiment Analysis with NLP on Financial Statements](FINAL_project_5_NLP.ipynb)
     >Apply Natural Language Processing on corporate filings, such as 10Q and 10K statements, from cleaning data and text processing, to feature extraction and modeling. Utilize bag-of-words and TF-IDF to generate company-specific sentiments. Based on the sentiments, decide which company to invest in, and the optimal time to buy or sell.
 
 6. [Sentiment Analysis with Neutral Network](FINAL_project_6_SentimentAnalysis.ipynb)
