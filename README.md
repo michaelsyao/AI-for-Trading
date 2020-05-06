@@ -19,10 +19,10 @@ analyzing fundamental data, and by quadratic programming.
 5. [Project 5: Sentiment Analysis with NLP on Financial Statements](FINAL_project_5_NLP.ipynb)
     >Apply Natural Language Processing on corporate filings, such as 10Q and 10K statements, from cleaning data and text processing, to feature extraction and modeling. Utilize bag-of-words and TF-IDF to generate company-specific sentiments. Based on the sentiments, decide which company to invest in, and the optimal time to buy or sell.
 
-6. [Sentiment Analysis with Neutral Network](FINAL_project_6_SentimentAnalysis.ipynb)
+6. [Project 6: Sentiment Analysis with Neutral Network](FINAL_project_6_SentimentAnalysis.ipynb)
     >Build deep neural networks to process news data. Use different ways of embedding words into vectors. Construct and train LSTM networks for sentiment classification. Backtests and apply the models to news data for signal generation.
 
-7. [Combining Signals for Enhanced Alpha](FINAL_project_7_Combining_Signals_for_Enhanced_Alpha.ipynb)
+7. [Project 7: Combining Signals for Enhanced Alpha](FINAL_project_7_Combining_Signals_for_Enhanced_Alpha.ipynb)
     >Combine signals on a random forest for enhanced alpha. Solve the problem of overlapping samples.
    * [L18.07:Random Forest Exercise](L18.07_spam_rf.ipynb)
    * [L19.04:Feature Engineer Exercise](L19.04_feature_engineering.ipynb)
